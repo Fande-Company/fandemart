@@ -1,13 +1,29 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.image-content {
+  z-index: 100px;
+  margin-top: -480px;
+  text-align: unset;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.image-content h1 {
+  color: white;
+  font-family: 'Titillium Web';
+  font-size: 5.154rem;
+  line-height: 5.154rem;
+  font-weight: 1000;
+  margin-bottom: 2.308rem;
+  text-transform: uppercase;
+}
+.navbar {
+  list-style: none;
+}
+.navbar li {
+  display: inline;
+}
+.gameplay {
+  color: white;
+  font-family: 'Titillium Web';
+  font-size: 3.154rem;
+  line-height: 3.154rem;
+  font-weight: 800;
+  margin-bottom: 2.308rem;
+  text-transform: uppercase;
 }
