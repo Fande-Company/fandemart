@@ -3,8 +3,23 @@
   margin-top: -480px;
   text-align: unset;
 }
+.image-content2 {
+  z-index: 100px;
+  color: black;
+  margin-top: -480px;
+  text-align: unset;
+}
 .image-content h1 {
   color: white;
+  font-family: 'Titillium Web';
+  font-size: 5.154rem;
+  line-height: 5.154rem;
+  font-weight: 1000;
+  margin-bottom: 2.308rem;
+  text-transform: uppercase;
+}
+.image-content2 h1 {
+  color: black;
   font-family: 'Titillium Web';
   font-size: 5.154rem;
   line-height: 5.154rem;
@@ -26,4 +41,16 @@
   font-weight: 800;
   margin-bottom: 2.308rem;
   text-transform: uppercase;
+}
+.gameplay2 {
+  color: black;
+  font-family: 'Titillium Web';
+  font-size: 3.154rem;
+  line-height: 3.154rem;
+  font-weight: 800;
+  margin-bottom: 2.308rem;
+  text-transform: uppercase;
+}
+.description{
+  color: black;
 }

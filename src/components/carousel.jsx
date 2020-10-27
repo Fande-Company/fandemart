@@ -1,8 +1,8 @@
 import React from 'react';
 import { Row, Col } from 'react-bootstrap';
 import Carousel from 'react-bootstrap/Carousel';
-import slider1 from '../assets/slider2.jpg';
-import slider2 from '../assets/slider3.jpg';
+import slider1 from '../assets/slider1.png';
+import slider2 from '../assets/slider2.jpg';
 
 const HomeCarousel = () => {
     return ( 
@@ -41,8 +41,7 @@ const HomeCarousel = () => {
                 alt="Third slide"
                 />
                 <Carousel.Caption>
-                <Row className="image-content">
-                {/* <img src={logo} alt="logo" width="80px" height="50px"/> */}
+                <Row className="image-content2">
                     <Col sm={1}></Col>
                     <Col sm={5}></Col>
                     <Col sm={6}>
@@ -55,8 +54,8 @@ const HomeCarousel = () => {
                     </Col>
                     <Col sm={12}><h1>FandeMart</h1></Col>
                 </Row>
-                <h1 className="gameplay">SHOP</h1><br/><br/><br/>
-                <p>FandeMart - Best online shopping store for smartphones, 
+                <h1 className="gameplay2">SHOP</h1><br/><br/><br/>
+                <p className="description">FandeMart - Best online shopping store for smartphones, 
                     led smart tv, mobiles & baby care products. Trustworthy 
                     online store for Fashion dresses in Kenya
                 </p>
