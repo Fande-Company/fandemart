@@ -25,12 +25,12 @@ const HomeCarousel = () => {
                             <li>Contact</li>
                           </ul>
                     </Col>
-                    <Col sm={12}><h1>FIFA 21</h1></Col>
+                    <Col sm={12}><h1>FandeMart</h1></Col>
                 </Row>
-                <h1 className="gameplay">GAMEPLAY</h1><br/><br/><br/>
-                <p>FIFA 21 rewards you for your creativity and control all over the pitch
-                Create more scoring opportunities with all-new dynamic attacking systems 
-                in the most intelligent FIFA gameplay to date.
+                <h1 className="gameplay">SHOP</h1><br/><br/><br/>
+                <p>FandeMart - Best online shopping store for smartphones, 
+                    led smart tv, mobiles & baby care products. Trustworthy 
+                    online store for Fashion dresses in Kenya
                 </p>
                 </Carousel.Caption>
             </Carousel.Item>
@@ -53,12 +53,12 @@ const HomeCarousel = () => {
                             <li>Contact</li>
                           </ul>
                     </Col>
-                    <Col sm={12}><h1>FIFA 21</h1></Col>
+                    <Col sm={12}><h1>FandeMart</h1></Col>
                 </Row>
-                <h1 className="gameplay">GAMEPLAY</h1><br/><br/><br/>
-                <p>FIFA 21 rewards you for your creativity and control all over the pitch
-                Create more scoring opportunities with all-new dynamic attacking systems 
-                in the most intelligent FIFA gameplay to date.
+                <h1 className="gameplay">SHOP</h1><br/><br/><br/>
+                <p>FandeMart - Best online shopping store for smartphones, 
+                    led smart tv, mobiles & baby care products. Trustworthy 
+                    online store for Fashion dresses in Kenya
                 </p>
                 </Carousel.Caption>
             </Carousel.Item>
